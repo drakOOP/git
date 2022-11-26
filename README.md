@@ -26,5 +26,5 @@ Karakteristika Git-a koja ga zaista izdvaja od skoro svakog drugog SCM-a je njeg
 * `git merge` - Spaja istoriju navedene grane sa istorijom trenutne grane
 * `git pull` - Uzima i spaja promene sa trenutnog skladišta sa navedenim granama
 * `git push` - Obnavlja promene na trenutnom skladištu koristeći promene na glavnom skladištu
-#SSH
+# SSH
 Sigurnosni šel protokol( engl. _Secure Shell Protocol - SSH_) je kriptografski mrežni protokol za bezbedno upravljanje mrežnim uslugama preko nezaštićene mreže. Njegove najistaknutije aplikacije su prijavljivanje sa daljine i izvršavanje sa komandne linije.
