@@ -1,10 +1,4 @@
 # Git
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://git-scm.com/images/logos/downloads/Git-Logo-White.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg">
-  <img alt="Git logo" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg">
-</picture>
-
 ![Git logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg)
 Git je distribuirani sistem za kontrolu verzija. Prati promene u bilo kom skupu datoteka, i obično se koristi za koordinaciju rada između programera koji zajedno razvijaju izvorni kod tokom razvoja softvera. Njegovi ciljevi uključuju brzinu, integritet podataka i podršku za distribuirane, nelinearne tokove posla (hiljade paralelnih grana koje rade na različitim sistemima).
 # Git konfiguracija
