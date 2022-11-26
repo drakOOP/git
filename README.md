@@ -23,3 +23,8 @@ git config --global user.email "your_email@example.com
 <br />
 Karakteristika Git-a koja ga zaista izdvaja od skoro svakog drugog SCM-a je njegov model grananja. Git dozvoljava i podstiče da imate više lokalnih grana koje mogu biti potpuno nezavisne jedna od druge. Kreiranje, spajanje i brisanje tih razvojnih linija traje nekoliko sekundi.
 * `git branch` - Prikazuje sve postojeće grane, Kreira ili briše grane
+* `git merge` - Spaja istoriju navedene grane sa istorijom trenutne grane
+* `git pull` - Uzima i spaja promene sa trenutnog skladišta sa navedenim granama
+* `git push` - Obnavlja promene na trenutnom skladištu koristeći promene na glavnom skladištu
+#SSH
+Sigurnosni šel protokol( engl. _Secure Shell Protocol - SSH_) je kriptografski mrežni protokol za bezbedno upravljanje mrežnim uslugama preko nezaštićene mreže. Njegove najistaknutije aplikacije su prijavljivanje sa daljine i izvršavanje sa komandne linije.
