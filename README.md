@@ -25,7 +25,7 @@ git diff
 git commit -m "prvi priloženi fajl"
 git reset zadatak.cs
 git log
-git revert HEAD~1
+git revert projekat~1
 ```
 # Grananje i stapanje
 <sub> engl. _branching and merging_ </sub>
@@ -36,5 +36,11 @@ Karakteristika Git-a koja ga zaista izdvaja od skoro svakog drugog SCM-a je njeg
 * `git merge` - Spaja istoriju navedene grane sa istorijom trenutne grane
 * `git pull` - Uzima i spaja promene sa trenutnog skladišta sa navedenim granama
 * `git push` - Obnavlja promene na trenutnom skladištu koristeći promene na glavnom skladištu
+```
+git branch my2.6.14 v2.6.14   (1)
+git merge projekat_1 projekat_2
+git pull origin
+git push origin master
+```
 # SSH
 Sigurnosni šel protokol( engl. _Secure Shell Protocol - SSH_) je kriptografski mrežni protokol za bezbedno upravljanje mrežnim uslugama preko nezaštićene mreže. Njegove najistaknutije aplikacije su prijavljivanje sa daljine i izvršavanje sa komandne linije.
