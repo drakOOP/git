@@ -10,3 +10,5 @@ git config --global user.email "your_email@example.com
 * `git init` - Kreira prazno git skladište ili ponovo inicijalizuje već postojeće
 * `git clone` - Klonira skladište u novi direktorijum
 * `git add` - Dodaje fajl u _staging area_
+* `git status` - Prikazuje sve fajlove koji treba da budu priloženi (engl. _commit_)
+
