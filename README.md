@@ -14,5 +14,6 @@ git config --global user.email "your_email@example.com
 * `git diff` - Prikazuje sve razlike u fajlovima koji nisu još priloženi i onih koji su sačuvani
 * `git commit` - Sačuvaj promene u skladište
 * `git notes` - Dodaj ili proveri beleške objekta
-* `git restore` - Vraća skladište u neko stanje iz prošlosti
+* `git reset` - Vraća skladište u neko stanje iz prošlosti
 * `git log` - Prikazuje istoriju svih promena trenutne grane
+* `git revert` - Vraća neke promene iz prošlosti
