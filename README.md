@@ -17,3 +17,5 @@ git config --global user.email "your_email@example.com
 * `git reset` - Vraća skladište u neko stanje iz prošlosti
 * `git log` - Prikazuje istoriju svih promena trenutne grane
 * `git revert` - Vraća neke promene iz prošlosti
+# Grananje i stapanje
+<sub> engl. _branching and merging_ </sub>
