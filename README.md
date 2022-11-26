@@ -15,3 +15,4 @@ git config --global user.email "your_email@example.com
 * `git commit` - Sačuvaj promene u skladište
 * `git notes` - Dodaj ili proveri beleške objekta
 * `git restore` - Vraća skladište u neko stanje iz prošlosti
+* `git log` - Prikazuje istoriju svih promena trenutne grane
