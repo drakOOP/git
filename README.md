@@ -9,4 +9,4 @@ git config --global user.email "your_email@example.com
 # Osnovne git komande
 * `git init` - Kreira prazno git skladište ili ponovo inicijalizuje već postojeće
 * `git clone` - Klonira skladište u novi direktorijum
-* `git add` - Dodaje fajl u `staging area'
+* `git add` - Dodaje fajl u `staging area`
