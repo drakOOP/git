@@ -6,3 +6,4 @@ Komanda `git config` je pogodna funkcija koja se koristi za postavljanje vrednos
 ```
 git config --global user.email "your_email@example.com
 ```
+# Osnovne git komande
