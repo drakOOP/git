@@ -19,3 +19,4 @@ git config --global user.email "your_email@example.com
 * `git revert` - Vraća neke promene iz prošlosti
 # Grananje i stapanje
 <sub> engl. _branching and merging_ </sub>
+Karakteristika Git-a koja ga zaista izdvaja od skoro svakog drugog SCM-a je njegov model grananja. Git dozvoljava i podstiče da imate više lokalnih grana koje mogu biti potpuno nezavisne jedna od druge. Kreiranje, spajanje i brisanje tih razvojnih linija traje nekoliko sekundi.
