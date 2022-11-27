@@ -35,7 +35,7 @@ Karakteristika Git-a koja ga zaista izdvaja od skoro svakog drugog sistema za ko
 * `git branch` - Prikazuje sve postojeće grane, Kreira ili briše grane
 * `git merge` - Spaja istoriju navedene grane sa istorijom trenutne grane
 * `git pull` - Uzima i spaja promene sa trenutnog skladišta sa navedenim granama
-* `git push` - Obnavlja promene na trenutnom skladištu koristeći promene na glavnom skladištu
+* `git push` - Obnavlja promene na glavnom skladištu koristeći promene sa trenutnog skladišta
 ```
 git branch my2.6.14 v2.6.14   (1)
 git merge projekat_1 projekat_2
