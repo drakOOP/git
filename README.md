@@ -42,7 +42,7 @@ git merge projekat_1 projekat_2
 git pull origin
 git push origin master
 ```
-![Git functions](./img/gitFunctions.jpg)
+![Git functions](./img/gitFunction.jpg)
 # SSH
 Sigurnosni šel protokol( engl. _Secure Shell Protocol - SSH_) je kriptografski mrežni protokol za bezbedno upravljanje mrežnim uslugama preko nezaštićene mreže. Njegove najistaknutije aplikacije su prijavljivanje sa daljine i izvršavanje sa komandne linije.
 ![Git logo](./img/SSH.png)
