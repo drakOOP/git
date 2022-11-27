@@ -42,7 +42,7 @@ Karakteristika Git-a koja ga zaista izdvaja od skoro svakog drugog sistema za ko
 ```
 git branch my2.6.14 v2.6.14   (1)
 git merge projekat_1 projekat_2
-git pull origin
+git pull origin next
 git push origin master
 ```
 <p align="center">
