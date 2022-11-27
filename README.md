@@ -16,7 +16,6 @@ git config --global user.email "your_email@example.com
 * `git reset` - Vraća skladište u neko stanje iz prošlosti
 * `git log` - Prikazuje istoriju svih promena trenutne grane
 * `git revert` - Vraća neke promene iz prošlosti
-![Git functions](./img/gitPath.png)
 ```
 git init C:/Users/Korisnik/Documents
 git clone https://github.com/primer.git
@@ -43,6 +42,7 @@ git merge projekat_1 projekat_2
 git pull origin
 git push origin master
 ```
+![Git functions](./img/gitPath.png)
 # SSH
 Sigurnosni šel protokol( engl. _Secure Shell Protocol - SSH_) je kriptografski mrežni protokol za bezbedno upravljanje mrežnim uslugama preko nezaštićene mreže. Njegove najistaknutije aplikacije su prijavljivanje sa daljine i izvršavanje sa komandne linije.
 ![Git logo](./img/SSH.png)
