@@ -1,6 +1,6 @@
 # Git
 ![Git logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg)
-Git je distribuirani sistem za kontrolu verzija. Prati promene u bilo kom skupu datoteka, i obično se koristi za koordinaciju rada između programera koji zajedno razvijaju izvorni kod tokom razvoja softvera. Njegovi ciljevi uključuju brzinu, integritet podataka i podršku za distribuirane, nelinearne tokove posla (hiljade paralelnih grana koje rade na različitim sistemima).
+Git je distribuirani sistem za kontrolu verzija. Prati promene u bilo kom skupu datoteka, i obično se koristi za koordinaciju rada između programera koji zajedno razvijaju izvorni kod nekog softvera. Njegovi ciljevi uključuju brzinu, integritet podataka i podršku za distribuirane, nelinearne tokove posla (hiljade paralelnih grana koje rade na različitim sistemima).
 # Git konfiguracija
 Komanda `git config` je pogodna funkcija koja se koristi za postavljanje vrednosti Git konfiguracije na globalnom ili lokalnom nivou projekta. Ovi nivoi konfiguracije odgovaraju `.gitconfig` tekstualnim datotekama. Izvršavanje `git config`-a će izmeniti tekstualnu datoteku konfiguracije.
 ```
@@ -16,6 +16,7 @@ git config --global user.email "your_email@example.com
 * `git reset` - Vraća skladište u neko stanje iz prošlosti
 * `git log` - Prikazuje istoriju svih promena trenutne grane
 * `git revert` - Vraća neke promene iz prošlosti
+![Git functions](./img/gitPath.png)
 ```
 git init C:/Users/Korisnik/Documents
 git clone https://github.com/primer.git
@@ -44,3 +45,4 @@ git push origin master
 ```
 # SSH
 Sigurnosni šel protokol( engl. _Secure Shell Protocol - SSH_) je kriptografski mrežni protokol za bezbedno upravljanje mrežnim uslugama preko nezaštićene mreže. Njegove najistaknutije aplikacije su prijavljivanje sa daljine i izvršavanje sa komandne linije.
+![Git logo](./img/SSH.png)
