@@ -31,7 +31,7 @@ git revert projekat~1
 <sub> engl. _branching and merging_ </sub>
 <br />
 <br />
-Karakteristika Git-a koja ga zaista izdvaja od skoro svakog drugog SCM-a je njegov model grananja. Git dozvoljava i podstiče da imate više lokalnih grana koje mogu biti potpuno nezavisne jedna od druge. Kreiranje, spajanje i brisanje tih razvojnih linija traje nekoliko sekundi.
+Karakteristika Git-a koja ga zaista izdvaja od skoro svakog drugog sistema za kontrolu verzija je njegov model grananja. Git dozvoljava i podstiče da imate više lokalnih grana koje mogu biti potpuno nezavisne jedna od druge. Kreiranje, spajanje i brisanje tih razvojnih linija traje nekoliko sekundi.
 * `git branch` - Prikazuje sve postojeće grane, Kreira ili briše grane
 * `git merge` - Spaja istoriju navedene grane sa istorijom trenutne grane
 * `git pull` - Uzima i spaja promene sa trenutnog skladišta sa navedenim granama
