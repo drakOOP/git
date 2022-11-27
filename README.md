@@ -51,6 +51,9 @@ git push origin master
 
 # SSH
 Sigurnosni šel protokol (engl. _Secure Shell Protocol - SSH_) je kriptografski mrežni protokol za bezbedno upravljanje mrežnim uslugama preko nezaštićene mreže. Njegove najistaknutije aplikacije su prijavljivanje sa daljine i izvršavanje sa komandne linije.
+```
+localhost:~$ ssh -v -p 22 -C neo@remoteserver
+```
 <p align="center">
   <img src="./img/SSH.png">
 </p>
