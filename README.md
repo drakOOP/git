@@ -30,7 +30,7 @@ git reset zadatak.cs
 git log
 git revert projekat~1
 ```
-# Grananje i stapanje
+## Grananje i stapanje
 <sub> engl. _branching and merging_ </sub>
 <br />
 <br />
